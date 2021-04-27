@@ -24,8 +24,6 @@ Wpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/BaseEnt
 ‹
 [pet-clinic-data/src/main/java/com/springframework/springpetclinic/services/CrudService.java,4\d\4df008ce561594a6a8ddeb3a9341d95f9de23229
 Š
-Zpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/VetService.java,1\6\16a12179d02b699a2bda3357a156efb6ccb9c4b0
-Š
 Zpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/PetService.java,f\a\fac3db35b72b0143318be01087734783fdd3f648
 :
 
