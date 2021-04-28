@@ -5,8 +5,6 @@ Spet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Person.
 Ppet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Pet.java,f\9\f9d6a1a91a0cb1b70b71a0e2f022f9ab8b40c34f
 „
 Tpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/PetType.java,a\e\ae715ccce530a7d5b324dc054926b094fec4fb61
-€
-Ppet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Vet.java,b\5\b57f284628cc1de43ccd34ead1216398ff0eca53
 ‡
 Wpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/BaseEntity.java,e\a\ea5c321a85821d7de275973080b1127afaf78290
 ‹
