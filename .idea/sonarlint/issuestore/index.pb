@@ -1,12 +1,4 @@
 
-ê
-`pet-clinic-web/src/main/java/com/springframework/springpetclinic/SpringPetClinicApplication.java,2\d\2d84fe0877bf80cbeb9954ec2b0feb5c2e5048bd
-F
-pet-clinic-web/pom.xml,0\3\032ca50b02fafe66044aef14aee29974c390637f
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-G
-pet-clinic-data/pom.xml,7\1\715d2fa7251c17a4f23b982fe95ad97f73e073f5
 Ç
 Rpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Owner.java,f\e\fe7ef3a07f6f40d2cab8fa5a2003de76f8e876d4
 É
@@ -17,8 +9,6 @@ Ppet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Pet.jav
 Tpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/PetType.java,a\e\ae715ccce530a7d5b324dc054926b094fec4fb61
 Ä
 Ppet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Vet.java,b\5\b57f284628cc1de43ccd34ead1216398ff0eca53
-Å
-Qpet-clinic-web/src/test/java/springpetclinic/SpringPetClinicApplicationTests.java,e\a\eaa0fab0ca36110b1f90595228153e43e184b113
 á
 Wpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/BaseEntity.java,e\a\ea5c321a85821d7de275973080b1127afaf78290
 ã
@@ -30,16 +20,8 @@ Zpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/PetS
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 h
 8pet-clinic-web/src/main/resources/application.properties,9\e\9e9584effef64a02957fcf6c45288e17d03e5993
-í
-bpet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,4\f\4fb93a4f363f49b2e04267ed8264453cc75c53e1
-ë
-apet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,b\e\bec5f299d8aa4ea9e14950ee69c30735ef9ad71a
 7
 HELP.md,1\a\1a273f73b7a477b0745593641bd708a6182c7ad5
-ê
-`pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,e\1\e14472f744eb28d2e1a7f7af22f18bf0b09fd00d
-è
-_pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,8\0\80926b561a7d4350074e1748142e6b2203204d25
 U
 %.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
 \
@@ -250,14 +232,6 @@ X
 mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
 8
 mvnw.cmd,1\f\1f1763f358c257ea3515417352b82b0165647ad1
-S
-#pet-clinic-data/pet-clinic-data.iml,7\b\7b451ac0397e579af5d0b236efdc8f85781eba6b
-Q
-!pet-clinic-web/pet-clinic-web.iml,1\7\177b6763cafb113f71c8fea29ae1e5f007dba5df
-d
-4pet-clinic-data/target/maven-archiver/pom.properties,6\1\61726aa10f9b6bda523362f1d58f8cf5b9cdccab
-c
-3pet-clinic-web/target/maven-archiver/pom.properties,0\f\0f283c7d08426945e4693dd1b23a0e6ab005b246
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 C
