@@ -18,8 +18,6 @@ Zpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/PetS
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-h
-8pet-clinic-web/src/main/resources/application.properties,9\e\9e9584effef64a02957fcf6c45288e17d03e5993
 7
 HELP.md,1\a\1a273f73b7a477b0745593641bd708a6182c7ad5
 U
