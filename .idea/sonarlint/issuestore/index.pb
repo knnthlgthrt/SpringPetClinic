@@ -1,8 +1,4 @@
 
-ƒ
-Spet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Person.java,3\e\3ecc293707b4862695b0f1ef55f13641ed5930a3
-„
-Tpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/PetType.java,a\e\ae715ccce530a7d5b324dc054926b094fec4fb61
 ‹
 [pet-clinic-data/src/main/java/com/springframework/springpetclinic/services/CrudService.java,4\d\4df008ce561594a6a8ddeb3a9341d95f9de23229
 Š
@@ -240,9 +236,5 @@ Qpet-clinic-web/src/test/java/springpetclinic/SpringPetClinicApplicationTests.ja
 fpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/map/AbstractMapService.java,9\0\90097921454b16db8469ef44a9fbbc2353a6cac8
 G
 pet-clinic-data/pom.xml,7\1\715d2fa7251c17a4f23b982fe95ad97f73e073f5
-‚
-Rpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Visit.java,c\0\c036b6fb10b526ab43c5357412d526c39bd03428
-‡
-Wpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Speciality.java,4\5\45aac462d0fa24e9d116c5db25e738cf1f495ac3
 Ž
 ^pet-clinic-data/src/main/java/com/springframework/springpetclinic/services/PetTypeService.java,b\c\bc002645ac24ed06cda75a084f38bc1dbef4487c
