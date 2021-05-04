@@ -222,8 +222,6 @@ X
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 C
 SpringPetClinic.iml,1\a\1ae0611e02aa1134576d5f243cc1ec21e55ff8c0
-ê
-`pet-clinic-web/src/main/java/com/springframework/springpetclinic/SpringPetClinicApplication.java,2\d\2d84fe0877bf80cbeb9954ec2b0feb5c2e5048bd
 Å
 Qpet-clinic-web/src/test/java/springpetclinic/SpringPetClinicApplicationTests.java,e\a\eaa0fab0ca36110b1f90595228153e43e184b113
 ñ
@@ -242,8 +240,6 @@ apet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/
 cpet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/VisitRepository.java,1\d\1d2439421bc5866ffdfcafe4c534af3a8268fc76
 ì
 cpet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/OwnerRepository.java,9\2\92e76438f5153aeb583ef6e2c5b49d9bbe71f019
-ü
-opet-clinic-data/src/main/java/com/springframework/springpetclinic/services/springdatajpa/OwnerSDJpaService.java,8\6\867c6d56eac5522929beac7b09496d5291128a87
 ù
 mpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/springdatajpa/PetSDJpaService.java,9\0\905aa9011fcc1f4bed4c89866646f3f32ba02e2f
 °
@@ -270,10 +266,6 @@ cpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/map/
 Wpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/BaseEntity.java,e\a\ea5c321a85821d7de275973080b1127afaf78290
 É
 Spet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Person.java,3\e\3ecc293707b4862695b0f1ef55f13641ed5930a3
-Ä
-Ppet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Pet.java,f\9\f9d6a1a91a0cb1b70b71a0e2f022f9ab8b40c34f
-Ñ
-Tpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/PetType.java,a\e\ae715ccce530a7d5b324dc054926b094fec4fb61
 á
 Wpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Speciality.java,4\5\45aac462d0fa24e9d116c5db25e738cf1f495ac3
 Ä
@@ -282,7 +274,11 @@ Ppet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Vet.jav
 Rpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/Visit.java,c\0\c036b6fb10b526ab43c5357412d526c39bd03428
 ä
 Zpet-clinic-web/src/main/java/com/springframework/springpetclinic/bootstrap/DataLoader.java,2\1\21501fb21d5ac3c6f5fe3a3b8d0ca01ecd49de0d
-F
-pet-clinic-web/pom.xml,0\3\032ca50b02fafe66044aef14aee29974c390637f
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+]
+-.idea/libraries/Maven__junit_junit_4_13_1.xml,6\8\687b3296d39f3fd130f8106dc5a34856a28ad27d
+i
+9.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml,c\9\c949a3e6f43b66dd4394853553a04f8c41e6e4e3
+S
+#pet-clinic-data/pet-clinic-data.iml,7\b\7b451ac0397e579af5d0b236efdc8f85781eba6b
+Q
+!pet-clinic-web/pet-clinic-web.iml,1\7\177b6763cafb113f71c8fea29ae1e5f007dba5df
