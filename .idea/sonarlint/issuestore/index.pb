@@ -238,8 +238,6 @@ hpet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/
 apet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/VetRepository.java,f\c\fca779cdf5572cef0d91e5d13d96950f4595d1c8
 ì
 cpet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/VisitRepository.java,1\d\1d2439421bc5866ffdfcafe4c534af3a8268fc76
-ì
-cpet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/OwnerRepository.java,9\2\92e76438f5153aeb583ef6e2c5b49d9bbe71f019
 ù
 mpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/springdatajpa/PetSDJpaService.java,9\0\905aa9011fcc1f4bed4c89866646f3f32ba02e2f
 °
