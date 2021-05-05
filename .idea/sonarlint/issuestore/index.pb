@@ -274,5 +274,3 @@ S
 #pet-clinic-data/pet-clinic-data.iml,7\b\7b451ac0397e579af5d0b236efdc8f85781eba6b
 ê
 `pet-clinic-web/src/main/java/com/springframework/springpetclinic/SpringPetClinicApplication.java,2\d\2d84fe0877bf80cbeb9954ec2b0feb5c2e5048bd
-Ñ
-Tpet-clinic-data/src/main/java/com/springframework/springpetclinic/model/PetType.java,a\e\ae715ccce530a7d5b324dc054926b094fec4fb61
