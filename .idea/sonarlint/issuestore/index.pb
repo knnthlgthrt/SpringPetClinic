@@ -1,8 +1,6 @@
 
 ‹
 [pet-clinic-data/src/main/java/com/springframework/springpetclinic/services/CrudService.java,4\d\4df008ce561594a6a8ddeb3a9341d95f9de23229
-Š
-Zpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/PetService.java,f\a\fac3db35b72b0143318be01087734783fdd3f648
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -226,8 +224,6 @@ C
 Qpet-clinic-web/src/test/java/springpetclinic/SpringPetClinicApplicationTests.java,e\a\eaa0fab0ca36110b1f90595228153e43e184b113
 –
 fpet-clinic-data/src/main/java/com/springframework/springpetclinic/services/map/AbstractMapService.java,9\0\90097921454b16db8469ef44a9fbbc2353a6cac8
-Ž
-^pet-clinic-data/src/main/java/com/springframework/springpetclinic/services/PetTypeService.java,b\c\bc002645ac24ed06cda75a084f38bc1dbef4487c
 ‘
 apet-clinic-data/src/main/java/com/springframework/springpetclinic/repositories/PetRepository.java,0\d\0d085802c91fc793b900fc17fa64f3554033424a
 •
